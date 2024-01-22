@@ -1,5 +1,5 @@
 % Read the original and masked images
-originalImage = imread('Orignal Image.jpeg');
+originalImage = imread('Original Image.jpeg');
 maskedImage = imread('Mask Image.jpg');
 
 
@@ -22,4 +22,4 @@ imshow(binaryMask);
 title('Binary Mask');
 
 % Optional: Save the binary mask
-% imwrite(binaryMask, 'binary_mask.jpg');
+imwrite(binaryMask, 'binary_mask.jpg');
