@@ -1,5 +1,5 @@
 # masking-cartridge
-Project Title: Automated Forensic Analysis of Cartridge Cases
+Assignment: Automatically Masking Cartridge Case Images
 
 Description:
 
