@@ -3,7 +3,7 @@ Assignment: Automatically Masking Cartridge Case Images
 
 Description:
 
-This project aims to automate the tedious and time-consuming process of masking fired ammunition components in forensic investigations. The focus is on cartridge cases, specifically 9mm caliber, using a 3D microscope. The algorithm, implemented in MATLAB, performs the following steps:
+This assignment aims to automate the tedious and time-consuming process of masking fired ammunition components in forensic investigations. The focus is on cartridge cases, specifically 9mm caliber, using a 3D microscope. The algorithm, implemented in MATLAB, performs the following steps:
 
 Image Acquisition: Utilize a 3D microscope to capture high-resolution images of fired 9mm cartridge cases.
 
