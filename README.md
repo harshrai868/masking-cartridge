@@ -1,4 +1,3 @@
-# masking-cartridge
 Assignment: Automatically Masking Cartridge Case Images
 
 Description:
